@@ -21,4 +21,11 @@
 
 Este proyecto sigue una arquitectura inspirada en cómo se trabajaría en **Java** con **JDBC**, pero ha sido desarrollado en **TypeScript** para aprovechar las ventajas de este lenguaje moderno y versátil, además de fomentar el aprendizaje y la confianza en la adaptación a nuevos lenguajes de programación.
 
+> Aún es posible que todo el proyecto no este orientado a **JBDC** y que cuando se extienda el proyecto se pueda implementar algún **ORM**.
+
 El objetivo es proporcionar una solución ideal para **pequeñas y medianas empresas** que necesiten un sistema centralizado para gestionar sus tiendas físicas, permitiendo una **visión en tiempo real** del estado de ventas, inventario y relación con los clientes.
+
+## **Esquema SQL**
+![Schema Sql](./docs/img/diagramSQL.png)
+
+> Puedes encontrar en la ruta `docs/sql` todos los script que se ha ido generando en el proyecto. De esa manera puede replicarlo tu mismo en tu proyecto.
